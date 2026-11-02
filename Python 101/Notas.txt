@@ -1,6 +1,10 @@
-Primero que todo... este es un repo libre de IA, como pasatiempo aprenderé Python desde 0 con el objetivo de entender
-matemáticas y Machine Learning, solo por diversión.
+Primero que todo... este es un repo libre de IA, como pasatiempo aprenderé Python
+desde 0 con el objetivo de entender matemáticas y Machine Learning, solo 
+por diversión. Y por si la IA se vuelve muy cara como para pagarla y por lo menos 
+pensar que aún se programar en otro lenguaje de programación que no sea 
+solo C++ gracias a la ICPC.
 
-Si alguien por alguna extraña razón está leyendo mis pensamientos en éste .txt, sepa que estoy usando el libro "Introducción a Learning
-programación en Python" escrito por Jaime Solano Soto 👍🏽
+Si alguien por alguna extraña razón está leyendo mis pensamientos en éste .txt, sepa
+que estoy usando el libro "Introducción a Learning programación en Python" escrito 
+por Jaime Solano Soto del TEC 👍🏽
 
