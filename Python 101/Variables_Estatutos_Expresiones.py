@@ -18,4 +18,11 @@ decimal = 1.5
 # Caracteres
 palabra = "Casa"
 letra = 'C'
+#=========================================================================
+# Existe una definicion sobre las variables locales y variables globales
+# las globales son las que se han escrito más arriba, pueden accederse desde
+# cualquier punto del programa
+
+# Las variables locales solo pueden accederse dentro del contexto de una función,
+# clase o archivo
 
